@@ -1,7 +1,7 @@
 # GPA Management System 🎓
 
 ## Overview  
-The **GPA Management System** is a C++ command-line application designed to efficiently manage student records, calculate GPAs, and store feedback. It provides sorting, searching, and profile management features to help users organize and retrieve student data with ease.
+The **GPA Management System** is a C++ command-line application designed to efficiently manage student records and store feedback. It provides sorting, searching, and profile management features to help users organize and retrieve student data with ease.
 
 ## Features! 
 
